@@ -1,23 +1,17 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌خانی
+title: about this website
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
 
-[my favorite website](http://www.google.com)
+- this is test
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+[my website](http://www.https://ghazaalnorozi.github.io/personal_website_template/Post-ClassDemo/.com)
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+
+
 
 ---
-**Test**: This is atest
+**Test**: This is test

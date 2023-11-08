@@ -1,8 +1,6 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: about me
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+-I am a computer student at IUST 
