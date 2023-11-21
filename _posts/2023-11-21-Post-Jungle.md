@@ -5,7 +5,6 @@ title: Jungle Fracral
 ![Photo](\assets\images\jungle.png)
 <html>
 <body>
-<br>
 <h4 style="text-align:right ;font-family: Tahoma">
    و تابع بازگشتی و رندوم جنگلی را رسم کردیمturtleبا کمک کتابخانه
 <br>

@@ -3,11 +3,11 @@ layout: posts
 title: Triangle Fracral
 ---
 ![Photo](\assets\images\triangle.png)
-* [MyTree](C:\git\personal_website_template\static_files\triangleme.html)
+* [MyTriangle](\static_files\triangleme.html)
 
 <html>
 <body>
-<br>
+
 <h4 style="text-align:right ;font-family: Tahoma">
    و تابع بازگشتی فرکتال مثلث را رسم کردیمturtleبا کمک کتابخانه
 </h4>
