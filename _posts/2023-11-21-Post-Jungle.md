@@ -2,7 +2,7 @@
 layout: posts
 title: Jungle Fracral
 ---
-* ![Photo](\assets\images\jungle.png)
+![Photo](\assets\images\jungle.png)
 <html>
 <body>
 <br>

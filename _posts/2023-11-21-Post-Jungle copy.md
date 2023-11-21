@@ -14,4 +14,4 @@ title: Junglecopy Fracral
 </body>
 </html>
 
-* [file](C:\git\personal_website_template\static_files\junglenew.py)
+* [file](\static_files\junglenew.py)
