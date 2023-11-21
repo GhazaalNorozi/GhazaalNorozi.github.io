@@ -2,7 +2,7 @@
 layout: posts
 title: Junglecopy Fracral
 ---
-
+* [file](\static_files\junglenew.py) 
 <html>
 <body>
 <br>
@@ -14,4 +14,3 @@ title: Junglecopy Fracral
 </body>
 </html>
 
-* [file](\static_files\junglenew.py)
