@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Triangle Fracral
+title: Jungle Fracral
 ---
 
 <html>
