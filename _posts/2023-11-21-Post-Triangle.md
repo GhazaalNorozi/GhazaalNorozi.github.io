@@ -2,7 +2,7 @@
 layout: posts
 title: Triangle Fracral
 ---
-* ![Photo](/assets/triangle.png)
+* ![Photo](\assets\images\triangle.png)
 * [MyTree](C:\git\personal_website_template\static_files\triangleme.html)
 
 <html>
