@@ -1,21 +1,22 @@
----
-layout: posts
-title: Tree Fracral
----
-* ![Photo](/assets/tree.png)
-* [MyTree](C:\git\personal_website_template\static_files\Treeme.html)
-
 <html>
+<head>
+    <title>tree</title>
+</head>
 <body>
+<h1 style="text-align: center;font-family:Georgia, 'Times New Roman', Times, serif; color:rgba(249, 2, 35, 0.686) ;">Tree</h1>
 <br>
 <h4 style="text-align:right ;font-family: Tahoma">
-   و تابع بازگشتی درختی را رسم کردیمforward,right,if,forودستوراتturtleبا کمک کتابخانه    
+    ابتدا تنه درخت را کشیده و هر دفعه قطر قلم و اندازه شاخه ها کم میشود
 <br>
-      به طوریکه اندازه وقطرهرشاخه به مرورکم شده ودرانتهای هرشاخه برگ هایی که رنگ انها رندوم بین4رنگ انتخاب شده کشیده شود    
+    سپس اگر شاخه ها از یک اندازه کم شدعمل کشیدن شاخه تمام شده وبرگ ها که چندضلعی اند کشیده میشوند
+
 </h4>
-<h3 style="text-align: right;font-family: Tahoma; color:rgba(249, 2, 35, 0.686)">در پایین میتوانید دستورات انرا ببینید</h3>
+
+<img src="treeph.png" alt="this a tree photo" width="400" dir="rtl">
+
 <pre>import turtle
     import random
+    
     def color():
        colorm=random.randint(1,4)
        if colorm==1:
@@ -26,27 +27,34 @@ title: Tree Fracral
            return "gold"
        else:
            return "red"
+    
+    
     def circle(n):
         turtle.begin_fill()
         pencolor=color()
         turtle.pencolor(pencolor)
         turtle.fillcolor(pencolor)
+       
         for i in range (n):
            turtle.forward(1)
            turtle.right(360/n)
+          
            turtle.forward(3)
            turtle.right(80)
            turtle.forward(3)
            turtle.left(80)
         turtle.pencolor("brown")
         turtle.end_fill()
+              
+    
     def s(d,r,b):
         turtle.pendown()
         if d<12 :
             circle(7)
             return 
         elif d<29 :
-          circle(7)  
+          circle(7)
+            
         turtle.pencolor("brown")
         turtle.pensize(b)
         turtle.forward(d)
@@ -57,6 +65,7 @@ title: Tree Fracral
         turtle.left(r)
         turtle.penup()
         turtle.backward(d)
+    
     turtle.penup()
     turtle.right(90)
     turtle.forward(100)
@@ -67,6 +76,18 @@ title: Tree Fracral
     s(80,30,9)
     turtle.update()
     turtle.mainloop()
+
     </pre>
+
+<br>
+
+<div style="font-weight: bold; font-size: larger;" dir="rtl">
+برای دیدن فراکتال مثلث 
+<a href="file:///C:/git/FC02031/s9/triangleme.html">اینجا</a>
+ کلیک کنید
+</div>
+
+
 </body>
+
 </html>
