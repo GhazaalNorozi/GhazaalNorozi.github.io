@@ -11,10 +11,11 @@ title: Jungle Fracral
 به طوری که اندازه و قطر هر شاخه و رنگ انها به طور رندوم انتخاب شود
 </h4>
 <h3 style="text-align: right;font-family: Tahoma; color:rgba(249, 2, 35, 0.686)">در پایین میتوانید دستورات انرا ببینید</h3>
+
+* [PythonFile](\static_files\junglenew.py) 
 <pre>import turtle
 import math
 import random
-
 def color():
    colorm=random.randint(1,4)
    if colorm==1:
