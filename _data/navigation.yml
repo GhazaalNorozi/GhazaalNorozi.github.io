@@ -10,6 +10,8 @@ main:
     url: /gallery/
   - title: "Blog"
     url: /blog/
+  - title: "Calender"
+    url: /calender/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
