@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /calender/
-title: MyCalendre
+title: MyCalender
 tags: [calender]
 modified: 24-11-2023
 comments: true
