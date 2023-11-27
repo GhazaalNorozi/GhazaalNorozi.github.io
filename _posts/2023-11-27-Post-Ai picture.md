@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Jungle Fracral
+title: Ai picture
 ---
 ![Photo](\assets\images\1_pic.png)
 <html>
