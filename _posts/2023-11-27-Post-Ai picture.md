@@ -2,21 +2,23 @@
 layout: posts
 title: Ai picture
 ---
-![Photo](\assets\images\1_picn.jpg)
-
 
 <html>
 <body>
+<h1 style="text-align:left ; color: red">First picture</h1>
 <h4 style="text-align:left ;font-family: Tahoma">
   A room where there is a bright fireplace in the corner and in front of it there is a warm     colored pillow, mattress and blanket, and it evokes the mood of autumn and orange
 </h4>
 </body>
 </html>
+
+![Photo](\assets\images\1_picn.jpg)
  
 ![Photo](\assets\images\2_pic.jpg)
 
 <html>
 <body>
+<h1 style="text-align:left ; color: red">Second picture</h1>
 <h4 style="text-align:left ;font-family: Tahoma">
   A room surrounded by windows and glass, and at the end of it, in the middle, there is a brick
 <br>
@@ -31,6 +33,7 @@ title: Ai picture
 
 <html>
 <body>
+<h1 style="text-align:left ; color: red">Third picture</h1>
 <h4 style="text-align:left ;font-family: Tahoma">
 A small room surrounded by all the glass with a view of the night outside and a pine tree. 
 <br>
@@ -45,10 +48,11 @@ small and modern dark brown library with books insideThe mood of the photo evoke
 </body>
 </html>
 
-![Photo](\assets\images\4_pic.png)
+![Photo](\assets\images\4_pic.jpg)
 
 <html>
 <body>
+<h1 style="text-align:left ; color: red">Fourth picture</h1>
 <h4 style="text-align:left ;font-family: Tahoma">
 A small room surrounded by all glass, the view outside is a forest room with autumn trees and 
 <br>
@@ -66,9 +70,11 @@ mentioned chair,
 </html>
 
 
-![Photo](\assets\images\final_pic.jpg)
+![Photo](\assets\images\final2_pic.jpg)
+
 <html>
 <body>
+<h1 style="text-align:left ; color: red">Final picture</h1>
 <h4 style="text-align:left ;font-family: Tahoma">
 a room with feels warm with old fireplace and blanket and pillows and book in front of it witch around the room is glass the picture viewed from the side
 </h4>
