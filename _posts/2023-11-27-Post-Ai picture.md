@@ -2,7 +2,8 @@
 layout: posts
 title: Ai picture
 ---
-![Photo](\assets\images\1_pic.png)
+![Photo](\assets\images\1_pic.jpg)
+
 <html>
 <body>
 <h4 style="text-align:right ;font-family: Tahoma">
@@ -10,7 +11,8 @@ A room where there is a bright fireplace in the corner and in front of it there 
 </body>
 </html>
 
-![Photo](\assets\images\2_pic.png)
+![Photo](\assets\images\2_pic.jpg)
+
 <html>
 <body>
 <h4 style="text-align:right ;font-family: Tahoma">
@@ -18,7 +20,8 @@ A room surrounded by windows and glass, and at the end of it, in the middle, the
 </body>
 </html>
 
-![Photo](\assets\images\3_pic.png)
+![Photo](\assets\images\3_pic.jpg)
+
 <html>
 <body>
 <h4 style="text-align:right ;font-family: Tahoma">
@@ -27,6 +30,7 @@ A small room surrounded by all the glass with a view of the night outside and a 
 </html>
 
 ![Photo](\assets\images\4_pic.png)
+
 <html>
 <body>
 <h4 style="text-align:right ;font-family: Tahoma">
@@ -35,7 +39,7 @@ A small room surrounded by all glass, the view outside is a forest room with aut
 </html>
 
 
-![Photo](\assets\images\final_pic.png)
+![Photo](\assets\images\final_pic.jpg)
 <html>
 <body>
 <h4 style="text-align:right ;font-family: Tahoma">
