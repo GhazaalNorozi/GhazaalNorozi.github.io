@@ -14,7 +14,7 @@ title: Ai picture
 
 ![Photo](\assets\images\1_picn.jpg)
  
-![Photo](\assets\images\2_pic.jpg)
+
 
 <html>
 <body>
@@ -29,7 +29,8 @@ title: Ai picture
 </body>
 </html>
 
-![Photo](\assets\images\3_pic.jpg)
+![Photo](\assets\images\2_pic.jpg)
+
 
 <html>
 <body>
@@ -48,7 +49,8 @@ small and modern dark brown library with books insideThe mood of the photo evoke
 </body>
 </html>
 
-![Photo](\assets\images\4_pic.jpg)
+![Photo](\assets\images\3_pic.jpg)
+
 
 <html>
 <body>
@@ -70,7 +72,7 @@ mentioned chair,
 </html>
 
 
-![Photo](\assets\images\final2_pic.jpg)
+![Photo](\assets\images\4_pic.jpg)
 
 <html>
 <body>
@@ -80,4 +82,7 @@ a room with feels warm with old fireplace and blanket and pillows and book in fr
 </h4>
 </body>
 </html>
+
+![Photo](\assets\images\final2_pic.jpg)
+
 
