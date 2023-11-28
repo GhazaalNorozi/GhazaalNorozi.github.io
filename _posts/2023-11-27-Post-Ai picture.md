@@ -3,6 +3,7 @@ layout: posts
 title: Ai picture
 ---
 ![Photo](\assets\images\1_pic.jpg)
+![Photo](\assets\images\2_pic.jpg)
 
 <html>
 <body>
@@ -11,7 +12,7 @@ title: Ai picture
 </body>
 </html>
 
-![Photo](\assets\images\2_pic.jpg)
+
 
 <html>
 <body>
