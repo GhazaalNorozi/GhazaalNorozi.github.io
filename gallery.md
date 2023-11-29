@@ -27,14 +27,6 @@ gallery:
     image_path: /assets/images/final2_pic.jpg
     alt: "placeholder image 5"
     title: "Image 5 "  
-   - url: /assets/images/triangle.png
-    image_path: /assets/images/triangle.png
-    alt: "placeholder image 6"
-    title: "Image 6 "
-   - url: /assets/images/treeph.png
-    image_path: /assets/images/treeph.png
-    alt: "placeholder image 7"
-    title: "Image 7 "
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
